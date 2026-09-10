@@ -1,0 +1,21 @@
+{
+  "settings": "Ajustes",
+  "preferences": "Preferencias",
+  "push_notifications": "Notificaciones Push",
+  "dark_mode": "Modo Oscuro",
+  "biometric_auth": "Autenticación Biométrica",
+  "account": "Cuenta",
+  "change_password": "Cambiar Contraseña",
+  "language": "Idioma",
+  "privacy_settings": "Configuración de Privacidad",
+  "select_language": "Seleccionar Idioma",
+  "cancel": "Cancelar",
+  "update": "Actualizar",
+  "logout": "Cerrar Sesión",
+  "logout_confirm": "¿Estás seguro de que quieres cerrar sesión?",
+  "password_updated": "¡Contraseña actualizada con éxito!",
+  "notifications_enabled": "Notificaciones activadas",
+  "notifications_muted": "Notificaciones silenciadas",
+  "biometrics_activated": "Biometría activada",
+  "biometrics_deactivated": "Biometría desactivada"
+}

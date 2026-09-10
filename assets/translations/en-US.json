@@ -1,0 +1,21 @@
+{
+  "settings": "Settings",
+  "preferences": "Preferences",
+  "push_notifications": "Push Notifications",
+  "dark_mode": "Dark Mode",
+  "biometric_auth": "Biometric Auth",
+  "account": "Account",
+  "change_password": "Change Password",
+  "language": "Language",
+  "privacy_settings": "Privacy Settings",
+  "select_language": "Select Language",
+  "cancel": "Cancel",
+  "update": "Update",
+  "logout": "Logout",
+  "logout_confirm": "Are you sure you want to log out?",
+  "password_updated": "Password updated successfully!",
+  "notifications_enabled": "Notifications enabled",
+  "notifications_muted": "Notifications muted",
+  "biometrics_activated": "Biometrics activated",
+  "biometrics_deactivated": "Biometrics deactivated"
+}

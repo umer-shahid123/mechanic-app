@@ -1,0 +1,21 @@
+{
+  "settings": "ترتیبات",
+  "preferences": "ترجیحات",
+  "push_notifications": "پش اطلاعات",
+  "dark_mode": "ڈارک موڈ",
+  "biometric_auth": "بائیومیٹرک تصدیق",
+  "account": "اکاؤنٹ",
+  "change_password": "پاس ورڈ تبدیل کریں",
+  "language": "زبان",
+  "privacy_settings": "رازداری کی ترتیبات",
+  "select_language": "زبان منتخب کریں",
+  "cancel": "منسوخ کریں",
+  "update": "اپ ڈیٹ کریں",
+  "logout": "لاگ آؤٹ",
+  "logout_confirm": "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟",
+  "password_updated": "پاس ورڈ کامیابی سے اپ ڈیٹ ہو گیا!",
+  "notifications_enabled": "اطلاعات فعال ہو گئیں",
+  "notifications_muted": "اطلاعات خاموش ہو گئیں",
+  "biometrics_activated": "بائیومیٹرکس فعال ہو گئے",
+  "biometrics_deactivated": "بائیومیٹرکس غیر فعال ہو گئے"
+}

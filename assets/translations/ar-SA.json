@@ -1,0 +1,21 @@
+{
+  "settings": "الإعدادات",
+  "preferences": "التفضيلات",
+  "push_notifications": "إشعارات الدفع",
+  "dark_mode": "الوضع الداكن",
+  "biometric_auth": "المصادقة البيومترية",
+  "account": "الحساب",
+  "change_password": "تغيير كلمة المرور",
+  "language": "اللغة",
+  "privacy_settings": "إعدادات الخصوصية",
+  "select_language": "اختر اللغة",
+  "cancel": "إلغاء",
+  "update": "تحديث",
+  "logout": "تسجيل الخروج",
+  "logout_confirm": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "password_updated": "تم تحديث كلمة المرور بنجاح!",
+  "notifications_enabled": "تم تفعيل الإشعارات",
+  "notifications_muted": "تم كتم الإشعارات",
+  "biometrics_activated": "تم تفعيل البصمة",
+  "biometrics_deactivated": "تم إلغاء تفعيل البصمة"
+}
